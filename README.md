@@ -1,1 +1,1 @@
-
+This little python script will help you to avoid damaging your pc battery ! The script will be ran every 5 minutes to scan current battery level to warn the user if he should plug or unplug his/her pc.
