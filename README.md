@@ -19,4 +19,4 @@ Clone these files anywhere and browse the code.
 ```batch
 $ git clone https://github.com/SimonDuperray/ot_KeepBatterySafe.git
 ```
-![plot](C:\Users\simon\OneDrive\Documents\readmes\plantaches.PNG)
+[![plantaches.png](https://i.postimg.cc/cLwZk35j/plantaches.png)](https://postimg.cc/3k8PdkhC)
