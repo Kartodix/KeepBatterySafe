@@ -19,7 +19,7 @@ Clone these files anywhere and browse the code.
 ```batch
 $ git clone https://github.com/SimonDuperray/ot_KeepBatterySafe.git
 ```
-#### Sous Windows:
+<ins>Sous Windows:</ins>
 Open the Task Planer
 [![plantaches.png](https://i.postimg.cc/cLwZk35j/plantaches.png)](https://postimg.cc/3k8PdkhC)
 
