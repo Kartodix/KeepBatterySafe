@@ -8,7 +8,8 @@
 * [Setup](#setup)
 
 ## :page_facing_up: General info
-This little python script will help you to avoid damaging your pc battery ! The script will be ran every 5 minutes to scan current battery level to warn the user if he should plug or unplug his/her pc.
+This little python script will help you to avoid damaging your pc battery ! The script will be ran every 5 minutes to scan current battery level to warn the user if he should plug or unplug his/her pc.<br><br>
+[![kbs.png](https://i.postimg.cc/1zLpqQcx/kbs.png)](https://postimg.cc/SXfXBHvV)<br><br>
 	
 ## :computer: Technologies
 KeepBatterySafe is created with:
