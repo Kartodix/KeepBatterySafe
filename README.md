@@ -19,4 +19,10 @@ Clone these files anywhere and browse the code.
 ```batch
 $ git clone https://github.com/SimonDuperray/ot_KeepBatterySafe.git
 ```
+#### Sous Windows:
+Open the Task Planer
 [![plantaches.png](https://i.postimg.cc/cLwZk35j/plantaches.png)](https://postimg.cc/3k8PdkhC)
+
+Create a new task, import the cloned code and program it to run every 10 minuts forever.
+[![addtask.png](https://i.postimg.cc/GttTvKK6/addtask.png)](https://postimg.cc/8f8CShqb)
+[![finaltask.png](https://i.postimg.cc/MpSRF7pf/finaltask.png)](https://postimg.cc/kBTBVt87)
