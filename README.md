@@ -1,4 +1,4 @@
-# Invisibility
+# KeepBatterySafe
 
 [-> Repository](https://github.com/SimonDuperray/ot_KeepBatterySafe)
 
@@ -11,7 +11,7 @@
 This little python script will help you to avoid damaging your pc battery ! The script will be ran every 5 minutes to scan current battery level to warn the user if he should plug or unplug his/her pc.
 	
 ## :computer: Technologies
-Chrono_Background is created with:
+KeepBatterySafe is created with:
 * Python
 	
 ## :cd: Setup
